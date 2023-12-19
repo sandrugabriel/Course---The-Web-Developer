@@ -1,0 +1,15 @@
+section {
+    width: 80%;
+    height: 800px;
+    background: center/cover url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VW_K%C3%A4fer_blue_1956_vr_TCE.jpg/375px-VW_K%C3%A4fer_blue_1956_vr_TCE.jpg");
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 150px;
+    text-align:center;
+    text-shadow: black -6px 6px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    color:white;
+}
