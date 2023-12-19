@@ -18,3 +18,11 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 a{
     text-decoration: none;
 }
+
+*{
+    background-color: aqua;
+}
+
+h1,h2,h3{
+    color: chartreuse;
+}
